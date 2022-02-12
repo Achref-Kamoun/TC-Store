@@ -1,0 +1,148 @@
+const products = [
+  {
+    name: 'Blue Pants',
+    image: '/images/Pants1.jpg',
+    description:
+      'Levis Jeans',
+    brand: 'Levis',
+    category: 'Pants',
+    price: 100,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Blue Pants',
+    image: '/images/Pants2.jpg',
+    description:
+      'Levis Jeans Women',
+    brand: 'Levis',
+    category: 'Pants',
+    price: 80,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Blue Pants',
+    image: '/images/Pants3.jpg',
+    description:
+      'Levis Jeans',
+    brand: 'Levis',
+    category: 'Pants',
+    price: 120,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Black Pants',
+    image: '/images/Pants4.jpg',
+    description:
+      'Levis Jeans',
+    brand: 'Levis',
+    category: 'Pants',
+    price: 130,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Black Shirt',
+    image: '/images/Shirt1.jpg',
+    description:
+      'Black Shirt',
+    brand: 'Pavillon',
+    category: 'Shirts',
+    price: 60,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'White Shirt',
+    image: '/images/Shirt2.jpg',
+    description:
+      'White Shirt',
+    brand: 'Pavillon',
+    category: 'Shirts',
+    price: 65,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Rainbow Shirt',
+    image: '/images/Shirt3.jpg',
+    description:
+      'Rainbow Shirt',
+    brand: 'Pavillon',
+    category: 'Shirts',
+    price: 80,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Simple Pavillon Shirt',
+    image: '/images/Shirt4.jpg',
+    description:
+      'Simple Pavillon',
+    brand: 'Pavillon',
+    category: 'Shirts',
+    price: 70,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Nike Shoes Orange',
+    image: '/images/Shoe1.jpg',
+    description:
+      'Nike Shoes',
+    brand: 'Nike',
+    category: 'Shoes',
+    price: 210,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Nike Shoes Black And Blue',
+    image: '/images/Shoe2.jpg',
+    description:
+      'Nike Shoes',
+    brand: 'Nike',
+    category: 'Shoes',
+    price: 230,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Nike Shoes Black',
+    image: '/images/Shoe3.jpg',
+    description:
+      'Nike Shoes',
+    brand: 'Nike',
+    category: 'Shoes',
+    price: 180,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Nike Shoes White',
+    image: '/images/Shoe4.jpg',
+    description:
+      'Nike Shoes',
+    brand: 'Nike',
+    category: 'Shoes',
+    price: 160,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+]
+
+export default products
